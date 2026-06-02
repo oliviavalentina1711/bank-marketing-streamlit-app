@@ -4,7 +4,7 @@ import pickle
 import gdown
 import os
 
-MODEL_URL = "https://drive.google.com/file/d/1F__J9MGuDafywkrQ8UtVYAEaITF1vHSg/view?usp=sharing"
+MODEL_URL = "https://drive.google.com/uc?id=1F__J9MGuDafywkrQ8UtVYAEaITF1vHSg"
 MODEL_PATH = "best_bank_marketing_model.pkl"
 
 if not os.path.exists(MODEL_PATH):
